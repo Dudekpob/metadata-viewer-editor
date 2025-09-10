@@ -1,4 +1,5 @@
 # Image Metadata Manager
+<img width="1385" height="834" alt="Screenshot from 2025-09-10 19-24-30" src="https://github.com/user-attachments/assets/5b1925ab-13be-4e47-beeb-790254a7b409" />
 
 A Python GUI application for managing image metadata with drag-and-drop functionality. This tool allows you to remove metadata from images, add new metadata, and process images in bulk.
 
